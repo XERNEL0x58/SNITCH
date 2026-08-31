@@ -1,6 +1,6 @@
 // Service worker for العرصميتر — enables offline play after the first visit.
 // Bump CACHE_VERSION whenever any core asset changes, so old caches get cleared.
-const CACHE_VERSION = 'arsameter-v1';
+const CACHE_VERSION = 'arsameter-v2';
 
 const CORE_ASSETS = [
     './',
